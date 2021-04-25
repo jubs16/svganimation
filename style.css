@@ -60,7 +60,7 @@
   }
 
   #hand {
-    animation: rotateLHand 1s infinite alternate;
+    animation: hand 1s infinite alternate;
     transform-origin: center;
     transform-box: fill-box;
   }
